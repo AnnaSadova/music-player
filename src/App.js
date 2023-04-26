@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Song />
       <Player />
+      <h1>Test</h1>
     </div>
   );
 }
